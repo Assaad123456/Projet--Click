@@ -1,0 +1,2192 @@
+[
+  {
+    "id": 101,
+    "titre": "Découverte du Japon",
+    "image": "images/city-6220689_1280.jpg",
+    "prix": 3082,
+    "date_debut": "2025-09-10",
+    "date_fin": "2025-09-25",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Tokyo",
+        "lieu": "Tokyo",
+        "gps": {
+          "lat": 89.9868,
+          "lng": -104.9314
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Tokyo",
+            "image": "images/street-6884534_1280.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Tokyo",
+            "image": "images/man-2590655_1280.jpg",
+            "prix": 20,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Tokyo",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Tokyo",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Tokyo",
+        "lieu": "Tokyo",
+        "gps": {
+          "lat": 56.1636,
+          "lng": -23.3891
+        },
+        "activites": [
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Tokyo",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Tokyo",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Tokyo",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Tokyo",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Tokyo",
+        "lieu": "Tokyo",
+        "gps": {
+          "lat": 51.0707,
+          "lng": -108.3656
+        },
+        "activites": [
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Tokyo",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Tokyo",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Tokyo",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Tokyo",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "titre": "Safari au Kenya",
+    "image": "images/antelope-4121962_1280.jpg",
+    "prix": 3461,
+    "date_debut": "2025-08-11",
+    "date_fin": "2025-08-17",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Nairobi",
+        "lieu": "Nairobi",
+        "gps": {
+          "lat": 14.6246,
+          "lng": -167.1501
+        },
+        "activites": [
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Nairobi",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Nairobi",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Nairobi",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Nairobi",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Nairobi",
+        "lieu": "Nairobi",
+        "gps": {
+          "lat": -3.6968,
+          "lng": -160.493
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Nairobi",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Nairobi",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Nairobi",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Nairobi",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Nairobi",
+        "lieu": "Nairobi",
+        "gps": {
+          "lat": 81.358,
+          "lng": -86.9242
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Nairobi",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Nairobi",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Nairobi",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Nairobi",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "titre": "Aventure en Islande",
+    "image": "images/iceland-3800913_1280.jpg",
+    "prix": 1792,
+    "date_debut": "2025-07-08",
+    "date_fin": "2025-07-14",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Reykjavik",
+        "lieu": "Reykjavik",
+        "gps": {
+          "lat": -34.6961,
+          "lng": 79.228
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Reykjavik",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Reykjavik",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Reykjavik",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Reykjavik",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Reykjavik",
+        "lieu": "Reykjavik",
+        "gps": {
+          "lat": -56.2258,
+          "lng": -44.7123
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Reykjavik",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Reykjavik",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Reykjavik",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Reykjavik",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Reykjavik",
+        "lieu": "Reykjavik",
+        "gps": {
+          "lat": 86.9975,
+          "lng": 129.3616
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Reykjavik",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Reykjavik",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Reykjavik",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Reykjavik",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 4 - Reykjavik",
+        "lieu": "Reykjavik",
+        "gps": {
+          "lat": 44.153,
+          "lng": 51.8797
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Reykjavik",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Reykjavik",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Reykjavik",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Reykjavik",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "titre": "Séjour à New York",
+    "image": "images/new-york-4352072_1280.jpg",
+    "prix": 2261,
+    "date_debut": "2025-07-16",
+    "date_fin": "2025-07-29",
+    "etapes": [
+      {
+        "titre": "Étape 1 - New York",
+        "lieu": "New York",
+        "gps": {
+          "lat": 42.3551,
+          "lng": 94.9409
+        },
+        "activites": [
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à New York",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à New York",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à New York",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à New York",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - New York",
+        "lieu": "New York",
+        "gps": {
+          "lat": 69.7871,
+          "lng": -64.0562
+        },
+        "activites": [
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à New York",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à New York",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à New York",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à New York",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - New York",
+        "lieu": "New York",
+        "gps": {
+          "lat": 41.6676,
+          "lng": 32.7991
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à New York",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à New York",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à New York",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à New York",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 4 - New York",
+        "lieu": "New York",
+        "gps": {
+          "lat": -9.9676,
+          "lng": -47.5458
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à New York",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à New York",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à New York",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à New York",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "titre": "Plages de Bali",
+    "image": "images/beach-5346210_1280.jpg",
+    "prix": 1834,
+    "date_debut": "2025-08-16",
+    "date_fin": "2025-08-24",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Denpasar",
+        "lieu": "Denpasar",
+        "gps": {
+          "lat": 12.4775,
+          "lng": 98.6604
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Denpasar",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Denpasar",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Denpasar",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Denpasar",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Denpasar",
+        "lieu": "Denpasar",
+        "gps": {
+          "lat": 40.4176,
+          "lng": -10.7466
+        },
+        "activites": [
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Denpasar",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Denpasar",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Denpasar",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Denpasar",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Denpasar",
+        "lieu": "Denpasar",
+        "gps": {
+          "lat": -15.1022,
+          "lng": 113.1828
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Denpasar",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Denpasar",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Denpasar",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Denpasar",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 4 - Denpasar",
+        "lieu": "Denpasar",
+        "gps": {
+          "lat": 31.3034,
+          "lng": 27.5565
+        },
+        "activites": [
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Denpasar",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Denpasar",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Denpasar",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Denpasar",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "titre": "Excursion en Grèce",
+    "image": "images/sunset-7499759_1280.jpg",
+    "prix": 2368,
+    "date_debut": "2025-02-15",
+    "date_fin": "2025-02-23",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Athènes",
+        "lieu": "Athènes",
+        "gps": {
+          "lat": 15.9377,
+          "lng": -131.6473
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Athènes",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Athènes",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Athènes",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Athènes",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Athènes",
+        "lieu": "Athènes",
+        "gps": {
+          "lat": 51.6534,
+          "lng": 29.7804
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Athènes",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Athènes",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Athènes",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Athènes",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Athènes",
+        "lieu": "Athènes",
+        "gps": {
+          "lat": -37.2973,
+          "lng": -97.119
+        },
+        "activites": [
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Athènes",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Athènes",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Athènes",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Athènes",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 4 - Athènes",
+        "lieu": "Athènes",
+        "gps": {
+          "lat": 42.4131,
+          "lng": 40.8954
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Athènes",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Athènes",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Athènes",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Athènes",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "titre": "Croisière en Norvège",
+    "image": "images/norway-4965490_1280.jpg",
+    "prix": 2242,
+    "date_debut": "2025-07-04",
+    "date_fin": "2025-07-12",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Oslo",
+        "lieu": "Oslo",
+        "gps": {
+          "lat": -1.6524,
+          "lng": -149.0323
+        },
+        "activites": [
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Oslo",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Oslo",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Oslo",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Oslo",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Oslo",
+        "lieu": "Oslo",
+        "gps": {
+          "lat": 54.9203,
+          "lng": 50.381
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Oslo",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Oslo",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Oslo",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Oslo",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Oslo",
+        "lieu": "Oslo",
+        "gps": {
+          "lat": 15.9631,
+          "lng": 17.2984
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Oslo",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Oslo",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Oslo",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Oslo",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 4 - Oslo",
+        "lieu": "Oslo",
+        "gps": {
+          "lat": 15.6058,
+          "lng": 66.5074
+        },
+        "activites": [
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Oslo",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Oslo",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Oslo",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Oslo",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "titre": "Road trip en Australie",
+    "image": "images/pexels-rachel-claire-4993163.jpg",
+    "prix": 2953,
+    "date_debut": "2025-07-08",
+    "date_fin": "2025-07-17",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Sydney",
+        "lieu": "Sydney",
+        "gps": {
+          "lat": 55.6246,
+          "lng": 161.8537
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Sydney",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Sydney",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Sydney",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Sydney",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Sydney",
+        "lieu": "Sydney",
+        "gps": {
+          "lat": -26.8935,
+          "lng": -97.711
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Sydney",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Sydney",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Sydney",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Sydney",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Sydney",
+        "lieu": "Sydney",
+        "gps": {
+          "lat": -66.7235,
+          "lng": 22.6093
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Sydney",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Sydney",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Sydney",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Sydney",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "titre": "Circuit au Maroc",
+    "image": "images/pexels-luigi-maggio-1750047758-28076410.jpg",
+    "prix": 1993,
+    "date_debut": "2025-01-01",
+    "date_fin": "2025-01-14",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Marrakech",
+        "lieu": "Marrakech",
+        "gps": {
+          "lat": 81.8096,
+          "lng": 77.2927
+        },
+        "activites": [
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Marrakech",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Marrakech",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Marrakech",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Marrakech",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Marrakech",
+        "lieu": "Marrakech",
+        "gps": {
+          "lat": 2.3062,
+          "lng": 27.6685
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Marrakech",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Marrakech",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Marrakech",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Marrakech",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "titre": "Trek au Pérou",
+    "image": "images/pexels-larsmulder-18662534.jpg",
+    "prix": 2497,
+    "date_debut": "2025-04-05",
+    "date_fin": "2025-04-12",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Cusco",
+        "lieu": "Cusco",
+        "gps": {
+          "lat": -47.1087,
+          "lng": -36.8683
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Cusco",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Cusco",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Cusco",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Cusco",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Cusco",
+        "lieu": "Cusco",
+        "gps": {
+          "lat": 0.9286,
+          "lng": -28.2352
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Cusco",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Cusco",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Cusco",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Cusco",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Cusco",
+        "lieu": "Cusco",
+        "gps": {
+          "lat": 46.524,
+          "lng": -71.8939
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Cusco",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Cusco",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Cusco",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Cusco",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "titre": "Détente aux Maldives",
+    "image": "images/pexels-asadphoto-1450360.jpg",
+    "prix": 3060,
+    "date_debut": "2025-09-04",
+    "date_fin": "2025-09-10",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Malé",
+        "lieu": "Malé",
+        "gps": {
+          "lat": 9.0071,
+          "lng": 2.6518
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Malé",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Malé",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Malé",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Malé",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Malé",
+        "lieu": "Malé",
+        "gps": {
+          "lat": 68.4898,
+          "lng": -145.6748
+        },
+        "activites": [
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Malé",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Malé",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Malé",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Malé",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Malé",
+        "lieu": "Malé",
+        "gps": {
+          "lat": -84.5452,
+          "lng": -76.3793
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Malé",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Malé",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Malé",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Malé",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 4 - Malé",
+        "lieu": "Malé",
+        "gps": {
+          "lat": 9.7548,
+          "lng": -52.7719
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Malé",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Malé",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Malé",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Malé",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "titre": "Culture en Italie",
+    "image": "images/pexels-davifnr-2064827.jpg",
+    "prix": 1702,
+    "date_debut": "2025-09-11",
+    "date_fin": "2025-09-20",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Rome",
+        "lieu": "Rome",
+        "gps": {
+          "lat": -72.3725,
+          "lng": 91.8655
+        },
+        "activites": [
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Rome",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Rome",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Rome",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Rome",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Rome",
+        "lieu": "Rome",
+        "gps": {
+          "lat": 41.0254,
+          "lng": -152.5685
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Rome",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Rome",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Rome",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Rome",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Rome",
+        "lieu": "Rome",
+        "gps": {
+          "lat": -20.9694,
+          "lng": 61.7025
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Rome",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Rome",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Rome",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Rome",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 4 - Rome",
+        "lieu": "Rome",
+        "gps": {
+          "lat": 23.1689,
+          "lng": -45.5395
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Rome",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Rome",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Rome",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Rome",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "titre": "Exploration en Thaïlande",
+    "image": "images/pexels-martinpechy-2078248.jpg",
+    "prix": 3445,
+    "date_debut": "2025-02-16",
+    "date_fin": "2025-02-28",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Bangkok",
+        "lieu": "Bangkok",
+        "gps": {
+          "lat": 71.7487,
+          "lng": -21.8149
+        },
+        "activites": [
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Bangkok",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Bangkok",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Bangkok",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Bangkok",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Bangkok",
+        "lieu": "Bangkok",
+        "gps": {
+          "lat": -19.4794,
+          "lng": 159.5234
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Bangkok",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Bangkok",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Bangkok",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Bangkok",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Bangkok",
+        "lieu": "Bangkok",
+        "gps": {
+          "lat": 77.9353,
+          "lng": -134.759
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Bangkok",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Bangkok",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Bangkok",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Maison d’hôte",
+            "description": "Hébergement Maison d’hôte à Bangkok",
+            "image": "images/hebergement.jpg",
+            "prix": 80,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 4 - Bangkok",
+        "lieu": "Bangkok",
+        "gps": {
+          "lat": 43.8425,
+          "lng": -119.3394
+        },
+        "activites": [
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Bangkok",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Bangkok",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Bangkok",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Bangkok",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "titre": "Visite de la Turquie",
+    "image": "images/pexels-weekendplayer-45189.jpg",
+    "prix": 1771,
+    "date_debut": "2025-03-17",
+    "date_fin": "2025-03-24",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Istanbul",
+        "lieu": "Istanbul",
+        "gps": {
+          "lat": 73.7884,
+          "lng": -115.9901
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Istanbul",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Istanbul",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Istanbul",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Istanbul",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Istanbul",
+        "lieu": "Istanbul",
+        "gps": {
+          "lat": -22.5164,
+          "lng": 8.7435
+        },
+        "activites": [
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Istanbul",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Istanbul",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Istanbul",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Istanbul",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 3 - Istanbul",
+        "lieu": "Istanbul",
+        "gps": {
+          "lat": 22.2086,
+          "lng": 115.9777
+        },
+        "activites": [
+          {
+            "titre": "Musée",
+            "description": "Profitez de musée à Istanbul",
+            "image": "images/activite.jpg",
+            "prix": 20,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Visite guidée",
+            "description": "Profitez de visite guidée à Istanbul",
+            "image": "images/activite.jpg",
+            "prix": 25,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 3*",
+            "description": "Hébergement Hôtel 3* à Istanbul",
+            "image": "images/hebergement.jpg",
+            "prix": 100,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Istanbul",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "titre": "Nature au Canada",
+    "image": "images/pexels-pixabay-158398.jpg",
+    "prix": 2982,
+    "date_debut": "2025-07-12",
+    "date_fin": "2025-07-19",
+    "etapes": [
+      {
+        "titre": "Étape 1 - Montréal",
+        "lieu": "Montréal",
+        "gps": {
+          "lat": 54.632,
+          "lng": 154.5344
+        },
+        "activites": [
+          {
+            "titre": "Cours de cuisine",
+            "description": "Profitez de cours de cuisine à Montréal",
+            "image": "images/activite.jpg",
+            "prix": 40,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Montréal",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Hôtel 5*",
+            "description": "Hébergement Hôtel 5* à Montréal",
+            "image": "images/hebergement.jpg",
+            "prix": 200,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Montréal",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      },
+      {
+        "titre": "Étape 2 - Montréal",
+        "lieu": "Montréal",
+        "gps": {
+          "lat": -33.3317,
+          "lng": 111.4094
+        },
+        "activites": [
+          {
+            "titre": "Excursion nature",
+            "description": "Profitez de excursion nature à Montréal",
+            "image": "images/activite.jpg",
+            "prix": 60,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Plongée",
+            "description": "Profitez de plongée à Montréal",
+            "image": "images/activite.jpg",
+            "prix": 90,
+            "valeur_par_defaut": false
+          }
+        ],
+        "hebergements": [
+          {
+            "titre": "Bungalow",
+            "description": "Hébergement Bungalow à Montréal",
+            "image": "images/hebergement.jpg",
+            "prix": 150,
+            "valeur_par_defaut": true
+          },
+          {
+            "titre": "Auberge",
+            "description": "Hébergement Auberge à Montréal",
+            "image": "images/hebergement.jpg",
+            "prix": 60,
+            "valeur_par_defaut": false
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "login": "admin1",
+        "motdepasse": "admin123",
+        "role": "admin",
+        "nom": "Durand",
+        "prenom": "Michel",
+        "naissance": "1985-06-12",
+        "adresse": "1 rue de l\u2019Administration, Paris",
+        "date_inscription": "2025-01-15",
+        "derniere_connexion": "2025-05-18"
+    },
+    {
+        "login": "client1",
+        "motdepasse": "client123",
+        "role": "client",
+        "nom": "Martin",
+        "prenom": "Claire",
+        "naissance": "1999-03-21",
+        "adresse": "15 avenue de Lyon",
+        "date_inscription": "2025-03-01",
+        "derniere_connexion": "2025-05-17"
+    },
+    {
+        "login": "client2",
+        "motdepasse": "azerty",
+        "role": "client",
+        "nom": "Moreau",
+        "prenom": "Lucas",
+        "naissance": "2001-09-11",
+        "adresse": "99 rue Victor Hugo",
+        "date_inscription": "2025-04-10",
+        "derniere_connexion": "2025-05-17"
+    },
+    {
+        "login": "client3",
+        "motdepasse": "motdepasse",
+        "role": "client",
+        "nom": "Bernard",
+        "prenom": "Julie",
+        "naissance": "1997-11-30",
+        "adresse": "78 rue des Lilas, Nantes",
+        "date_inscription": "2025-05-01",
+        "derniere_connexion": "2025-05-17"
+    },
+    {
+        "login": "assaadnasri@gmail.com",
+        "motdepasse": "assaad",
+        "role": "client",
+        "nom": "nasri",
+        "prenom": "assaad",
+        "naissance": "2005-11-14",
+        "adresse": "4 rue oclaire",
+        "date_inscription": "2025-05-18",
+        "derniere_connexion": "2025-05-18"
+    },
+    {
+        "login": "jhgerzgfhr",
+        "motdepasse": "123456789",
+        "role": "client",
+        "nom": "EFZE",
+        "prenom": "ZERE",
+        "naissance": "2000-11-11",
+        "adresse": "3TREFGG EZF",
+        "date_inscription": "2025-05-18",
+        "derniere_connexion": "2025-05-18"
+    },
+    {
+        "login": "EGZRqsgsgdsq",
+        "motdepasse": "azfzegfezg",
+        "role": "client",
+        "nom": "aregdqsg",
+        "prenom": "asqgsqg",
+        "naissance": "2005-11-11",
+        "adresse": "aqsgsdgsdg",
+        "date_inscription": "2025-05-18",
+        "derniere_connexion": "2025-05-18"
+    }
+]

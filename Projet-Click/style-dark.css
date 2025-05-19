@@ -1,0 +1,65 @@
+/* style-dark.css - Thème sombre */
+body {
+    background-color: #392364 !important;
+    color: #f0f0f0 !important;
+    background-image: url("images/pexels-hazardos-1524073.jpg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+
+header, footer, nav ul {
+    background-color: #282750 !important;
+    color: #ffffff !important;
+}
+
+nav ul li a {
+    color: #ffffff !important;
+}
+
+nav ul li a:hover {
+    background-color: #333 !important;
+}
+
+main, section, .feature, .profile-card, .dashboard-card,
+.form-group input, .form-group select, .form-group textarea {
+    background-color: #1c1c1c !important;
+    color: #f0f0f0 !important;
+    border-color: #444 !important;
+}
+
+button, .btn {
+    background-color: #00509e !important;
+    color: #fff !important;
+}
+
+button:hover, .btn:hover {
+    background-color: #007acc !important;
+}
+
+a:focus, button:focus, input:focus, select:focus {
+    outline: 2px solid #007acc;
+    outline-offset: 2px;
+}
+
+/* 🧩 Correction visibilité des cartes en mode sombre */
+.card {
+    background-color: #ffffff !important; /* fond blanc */
+    color: #000000 !important; /* texte noir */
+}
+
+.card h3,
+.card p,
+.card a,
+.card strong {
+    color: #000000 !important;
+}
+
+.card a {
+    background-color: #007bff !important;
+    color: white !important;
+}
+
+.card a:hover {
+    background-color: #0056b3 !important;
+}
